@@ -1,0 +1,19 @@
+# Compiled Java bytecode
+*.class
+
+# Build output directories
+out/
+bin/
+target/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS junk
+.DS_Store
+Thumbs.db
